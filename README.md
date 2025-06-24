@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer with a focu
 - 🎓 B.Tech student from GGSIPU (Graduating in 2027)
 - 🌱 Currently exploring Machine Learning algorithms, recommendation systems, and data analysis
 - 💻 Skilled in Python, NumPy, Matplotlib, Scikit-learn, Git, and VS Code
-- 📫 Contact me at: **gauravojha1206@gmail.com**
+- 📫 Contact me at: **mayaojha1206@gmail.com**
 
 ---
 
@@ -40,4 +40,15 @@ Calculates the Mean Squared Error for linear regression models using both loop a
 🔗 [View Project Repository](https://github.com/GauravOjha2/Cost-function-for-Linear-Regression)
 
 ### 📉 Gradient Descent from Scratch  
-Implements gradient descent to optimize model parameters in univa
+Implements gradient descent to optimize model parameters in univariate linear regression.
+
+🔗 [View Project Repository](https://github.com/GauravOjha2/Gradient-descent)
+
+---
+
+## 🌐 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gauravojha1/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/GauravOjha2)
+
+Thanks for visiting! Feel free to check out my repositories and connect if you'd like to collaborate. 🚀
