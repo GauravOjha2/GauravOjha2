@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer with a focu
 
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravOjha2&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravOjha2&layout=compact&theme=radical&exclude_repo=&hide=Jupyter%20Notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravOjha2&layout=compact&theme=radical&hide=Jupyter%20Notebook)
 
 ---
 
@@ -40,15 +40,4 @@ Calculates the Mean Squared Error for linear regression models using both loop a
 🔗 [View Project Repository](https://github.com/GauravOjha2/Cost-function-for-Linear-Regression)
 
 ### 📉 Gradient Descent from Scratch  
-Implements gradient descent to optimize model parameters in univariate linear regression.
-
-🔗 [View Project Repository](https://github.com/GauravOjha2/Gradient-descent)
-
----
-
-## 🌐 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/gauravojha2/)
-- [GitHub](https://github.com/GauravOjha2)
-
-Thanks for visiting! Feel free to check out my repositories and connect if you'd like to collaborate. 🚀
+Implements gradient descent to optimize model parameters in univa
