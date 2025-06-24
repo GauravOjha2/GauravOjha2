@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer with a focu
 - 🎓 B.Tech student from GGSIPU (Graduating in 2027)
 - 🌱 Currently exploring Machine Learning algorithms, recommendation systems, and data analysis
 - 💻 Skilled in Python, NumPy, Matplotlib, Scikit-learn, Git, and VS Code
-- 📫 Contact me at: **mayaojha1206@gmail.com**
+- 📫 Contact me at: **gauravojha1206@gmail.com**
 
 ---
 
